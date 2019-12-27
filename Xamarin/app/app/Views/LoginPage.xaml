@@ -52,7 +52,7 @@
 
                 <ActivityIndicator>
                 </ActivityIndicator>
-                <Button
+                <Button x:Name="btLogin"  
                     BackgroundColor="Navy"
                     Text="Login">
                 </Button>
